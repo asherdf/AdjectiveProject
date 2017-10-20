@@ -9,3 +9,5 @@ print("{}".format('hello'))
 
 
 #JAVASCRIPT PLAY AREA
+-comment line for functions ctrl+shift+c
+//-------------------------------------------------------------------------
