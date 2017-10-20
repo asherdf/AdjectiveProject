@@ -1,0 +1,11 @@
+CODE SNIPPETS PLAY AREA
+
+#PYTHON PLAY AREA
+
+-Printing with formatting
+print("{}".format('hello'))
+
+-for loops start at 0!
+
+
+#JAVASCRIPT PLAY AREA
