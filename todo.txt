@@ -4,3 +4,4 @@ Adjective Project TODO:
 -not fail
 -try not to cry
 -commit once an hour
+-Take a shower
